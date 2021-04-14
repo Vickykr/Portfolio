@@ -11,4 +11,4 @@ Database-
 MySQL
 
 Frontend/views-
-Handelbars,
+Handelbars,CSS
