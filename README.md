@@ -11,5 +11,7 @@ Database-
 MySQL
 
 Frontend/views-
-Handelbars, CSS
-![Uploading Screenshot from 2021-04-14 19-32-11.png…]()
+Handelbars, Provided that you have the image in your repo, you can use a relative URL:
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+CSS
